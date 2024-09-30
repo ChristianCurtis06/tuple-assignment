@@ -1,0 +1,1 @@
+This repository includes the assignment: Python Tuples in Module 3: Lesson 2 of the Software Engineering Core.
